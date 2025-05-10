@@ -1,8 +1,13 @@
-  
--  About Me:
-  
-I am an aspiring cybersecurity enthusiast with a strong passion for securing the digital world. While my journey in the field is just beginning, I am driven by a profound curiosity for the ever-evolving landscape of cybersecurity.
+👋 Hi, I'm an aspiring cybersecurity professional, currently learning and building hands-on skills to break into the field.
+    
+ I'm especially interested in defensive security and aim to work as a Tier 1 SOC Analyst.
 
-My educational background includes coursework in information security and network security, providing me with a foundational understanding of key concepts. 
-I am actively pursuing certifications such as Blue Team Level 1 and developing my practical skills by using platform such as TryHackMe. 
-Self-study to deepen my knowledge in areas such as defensive cybersecurity training and penetration testing.
+ I’ve worked on projects using tools like:
+
+OPNsense, Ubuntu, Wireshark, and VirtualBox for network setup and traffic analysis
+
+Nmap and Nessus for vulnerability scanning and network discovery
+
+I'm currently hold certifications like CompTIA Security+, CySA+, and Network+, while sharpening my skills on platforms like TryHackMe.
+
+🚀 I'm always learning and looking to grow in areas like network defense, threat detection, and SOC operations.
