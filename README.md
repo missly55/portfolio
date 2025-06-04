@@ -1,15 +1,19 @@
 About Me:
+Hi, I’m Lynell, an aspiring IT Support and Cybersecurity professional actively building hands-on skills through platforms like TryHackMe and self-guided labs.
 
-Hi, I'm an aspiring cybersecurity professional, currently learning and building hands-on skills to break into the field.
-    
- I'm especially interested in defensive security and aim to work as a Tier 1 SOC Analyst.
+By working through real-world scenarios—such as troubleshooting system issues, managing user accounts, and responding to security incidents—I’m preparing to bring practical, problem-solving value to an IT team.
 
- I’ve worked on projects using tools like:
+Currently, I work as a Sortation Associate at Amazon, where I’ve developed transferable skills like precision, teamwork, and staying calm under pressure. Now, I’m channeling those strengths into my passion for technology—especially in areas like digital security, user support, and system administration.
 
-OPNsense, Ubuntu, Wireshark, and VirtualBox for network setup and traffic analysis
+While I’m not from a traditional tech background, I’m bridging that gap through labs, certifications, and continuous learning. I’m seeking an entry-level IT Support or Cybersecurity role where I can grow and contribute as part of a real-world team.
 
-Nmap and Nessus for vulnerability scanning and network discovery
+💼 Certifications & Education
+CompTIA Security+ – Cybersecurity fundamentals: threats, risk mitigation, identity & access
 
-I'm currently hold certifications like CompTIA Security+, CySA+, and Network+, while sharpening my skills on platforms like TryHackMe.
+CompTIA CySA+ – SOC tools, threat detection, and incident response
 
-I'm always learning and looking to grow in areas like network defense, threat detection, and SOC operations.
+Microsoft Certified: Security, Compliance & Identity Fundamentals – Core security and compliance concepts
+
+BSc. Information Technology
+
+
