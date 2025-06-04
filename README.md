@@ -1,12 +1,12 @@
 **About Me:**
 
-Hi, I’m Lynell, an aspiring IT Support and Cybersecurity professional actively building hands-on skills through platforms like TryHackMe and self guided labs.
+Hi, I’m Lynell, an aspiring IT Support and Cybersecurity professional who’s passionate about learning and building real-world experience through hands-on, self-taught projects and labs.
 
-By working through real-world scenarios, such as troubleshooting system issues, managing user accounts, and responding to security incidents. I’m preparing to bring practical, problem-solving value to an IT team.
+I’m currently working on developing technical skills through platforms like TryHackMe, along with creating my own IT support simulations to troubleshoot issues, manage accounts, and solve common tech problems.
 
-Currently, I work as a Sortation Associate at Amazon, where I’ve developed transferable skills like precision, teamwork, and staying calm under pressure. Now, I’m channeling those strengths into my passion for technology, especially in areas like digital security, user support, and system administration.
+Right now, I work as a Sortation Associate at Amazon, where I’ve developed valuable transferable skills—like attention to detail, teamwork, and staying calm under pressure. I’m now applying those strengths to my growing interest in technology, particularly in digital security, user support, and system administration.
 
-While I’m not from a traditional tech background, I’m bridging that gap through labs, certifications, and continuous learning. I’m seeking an entry-level IT Support or Cybersecurity role where I can grow and contribute as part of a real-world team.
+Although I don’t come from a traditional tech background, I’m taking a proactive approach: completing labs, earning certifications, and constantly learning by doing. I’m excited to contribute to a real-world IT or cybersecurity team where I can grow, support others, and continue learning every day.
 
 💼 **Certifications & Education**
 
