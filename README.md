@@ -12,10 +12,10 @@ While I’m not from a traditional tech background, I’m bridging that gap thro
 
 * CompTIA Security+ – Cybersecurity fundamentals: threats, risk mitigation, identity & access
 
-CompTIA CySA+ – SOC tools, threat detection, and incident response
+* CompTIA CySA+ – SOC tools, threat detection, and incident response
 
-Microsoft Certified: Security, Compliance & Identity Fundamentals – Core security and compliance concepts
+* Microsoft Certified: Security, Compliance & Identity Fundamentals – Core security and  compliance concepts
 
-BSc. Information Technology
+* BSc. Information Technology
 
 
